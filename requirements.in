@@ -1,0 +1,23 @@
+# piptools
+pip-tools
+
+# notebooks
+jupyterlab
+nodeenv
+
+# plotting
+matplotlib
+
+# numerical tools
+scipy
+numpy
+
+# frameworks
+tensorflow # tf-nightly
+
+# dev-tools
+pylint 
+black
+
+# computer vision
+opencv-python
